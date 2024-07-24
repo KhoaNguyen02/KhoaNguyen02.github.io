@@ -11,10 +11,10 @@ html{
   scroll-behavior: smooth;
 }
 .container {
-    margin-left: 0;
-    margin-right: 0;
-    width: 100%;
-}
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+} 
 
 .task-list{
   list-style: none;
